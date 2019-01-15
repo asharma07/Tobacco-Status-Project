@@ -1,2 +1,2 @@
 # Tobacco-Status-Project
-TSP is a Tobacco Status Project the aim of the project is to analyze the stage of patients to quit smoking implementing natural language processing algorithm.
+Tobacco Status Project(TSP) - Is a social media data analysis project, the aim of the project is to analyze the stage of patients participated in the Facebook TSP group embracing sentiment analysis. We have extracted, cleaned and processed the unstructured data using API's and R statistical packages. You are welcomed to have reference to the codes. Hope that, it will help you much.
